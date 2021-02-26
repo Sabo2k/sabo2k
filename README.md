@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://i.imgur.com/xxWsnff.gif)
+
 <!--
 **Sabo2k/sabo2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
