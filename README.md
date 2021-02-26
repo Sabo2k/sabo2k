@@ -16,8 +16,8 @@
 <img align="left" alt="Android App Development" img src="https://www.linux-magazin.de/wp-content/uploads/2020/10/image9.png" height="50">
 <img align="left" alt="Perl" img src="https://cdn.freebiesupply.com/logos/large/2x/perl-logo-png-transparent.png" height="50">
 <img align="left" alt="PostgreSQL" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="50">
-<img align="left" alt="Jenkins" img src="https://coralogix.com/wp-content/uploads/2020/12/jenkins.png" height="50">
+<img align="left" alt="Jenkins" img src="https://coralogix.com/wp-content/uploads/2020/12/jenkins.png" height="50">  
 
-### 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabo2k&theme=dark)](https://github.com/sabo2k/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabo2k&theme=dark&&langs_count=10)](https://github.com/sabo2k/github-readme-stats)
