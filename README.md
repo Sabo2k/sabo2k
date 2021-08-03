@@ -16,7 +16,7 @@
 <img align="left" title="PostgreSQL" alt="PostgreSQL" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="50">
 <img align="left" title="Jenkins" alt="Jenkins" img src="https://coralogix.com/wp-content/uploads/2020/12/jenkins.png" height="50">
 <img align="left" title="Android Studio" alt="Android App Development" img src="https://www.linux-magazin.de/wp-content/uploads/2020/10/image9.png" height="50">
-<img align="left" title="UML" alt="UML" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/600px-UML_logo.svg.png" height="50">
+<img align="left" title="UML" alt="UML" img src="https://jackjava003.github.io/JackHuang/images/Technical_Skills/UML.png" height="50">
 
 <br />
 <br />
