@@ -26,7 +26,9 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabo2k&layout=compact&theme=dark&&langs_count=5&&bg_color=000000&&title_color=c9d0d4)](https://github.com/Sabo2k?tab=repositories)
+[![Sabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabo2k&show_icons=true&theme=dark)](https://github.com/Sabo2k?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabo2k&layout=compact&theme=dark&&langs_count=5)](https://github.com/Sabo2k?tab=repositories)
 
 <!--
 <a href="https://github.com/sabo2k/github-readme-stats">
