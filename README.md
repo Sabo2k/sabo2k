@@ -1,4 +1,4 @@
-<h2 align="center">Sabo's GitHub</h2>
+<h1 align="left">Sabo's GitHub</h2>
 
 ![](https://i.imgur.com/xxWsnff.gif)
 
