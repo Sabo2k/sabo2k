@@ -1,11 +1,15 @@
-<h1 align="left">Sabo's GitHub</h2>
+<h1 align="center">Hi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-![](https://i.imgur.com/xxWsnff.gif)
+<a href="https://github.com/Sabo2k/sabo2k">
+  <img align="center" src="https://i.imgur.com/xxWsnff.gif" />
+</a>
+
+<!--![](https://i.imgur.com/xxWsnff.gif)-->
 
 <!--
 **Sabo2k/sabo2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### My Languages and Tools:
+<h1 align="center">My languages and tools:</h2>
 
 <a href="https://github.com/Sabo2k" />
   <img align= "left" title="C" alt="C" img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="50">
@@ -24,12 +28,8 @@
 <br />
 <br />
 
+<h1 align="center">Statistics</h2>
+
 [![Sabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabo2k&show_icons=true&theme=dark)](https://github.com/Sabo2k?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabo2k&layout=compact&theme=dark&&langs_count=5)](https://github.com/Sabo2k?tab=repositories)
-
-<!--
-<a href="https://github.com/sabo2k/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabo2k&theme=dark&&langs_count=10&&bg_color=000000" />
-</a>
--->
