@@ -1,14 +1,22 @@
 [
     {
-        "quote":"Github Quotes for README",
-        "author":"Open Source"
+        "quote":"Who doesn't learn from loss will never become a winner",
+        "author":""
     },
     {
-        "quote":"",
+        "quote":"Give a man a fish, and you feed him for a day. Teach a man to fish, and you feed him for a lifetime.",
         "author":""
     },
     {
         "quote":"First solve the problem. Then write the code",
         "author":"John Johnson"
+    },
+    {
+        "quote":"f you want to build a ship, don't drum up the men to gather wood, divide the work and give orders. Instead, teach them to yearn for the vast and endless sea"
+        "author":"Anotine de Saint-Exupery"
+    }
+    {
+        "quote":"You can defend yourself against attacks, you are powerless against praise."
+        "author":"Sigmund Freud"
     }
 ]
