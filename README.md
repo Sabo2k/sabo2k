@@ -5,8 +5,6 @@
   <img align="center" src="https://i.imgur.com/xxWsnff.gif" />
 </a>
 
-<!--![](https://i.imgur.com/xxWsnff.gif)-->
-
 <!--
 **Sabo2k/sabo2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -34,3 +32,10 @@
 [![Sabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabo2k&show_icons=true&theme=dark)](https://github.com/Sabo2k?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabo2k&layout=compact&theme=dark&&langs_count=5)](https://github.com/Sabo2k?tab=repositories)
+
+
+<h1 align="center">some inspiration </h2>
+
+<p align="center">
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=vision-friendly-dark&animation=grow_out_in&layout=default&font=Redressed)
+</p>
