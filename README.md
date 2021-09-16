@@ -36,4 +36,4 @@
 
 <h1 align="center">some inspiration </h2>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/Sabo2k/sabo2k/blob/main/quotes.json&theme=vision-friendly-dark&animation=grow_out_in&layout=default&font=Redressed)
+[![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/Sabo2k/sabo2k/blob/main/quotes.json)](theme=vision-friendly-dark&animation=default&layout=default&font=Redressed)
