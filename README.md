@@ -33,6 +33,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabo2k&layout=compact&theme=dark&&langs_count=5)](https://github.com/Sabo2k?tab=repositories)
 
-
 <h1 align="center">some inspiration </h2>
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/Sabo2k/sabo2k/blob/main/quotes.json)
