@@ -11,7 +11,7 @@
 <h1 align="center">🛠 My languages and tools</h2>
 
 <a href="https://github.com/Sabo2k" />
-  <img align= "left" title="C" alt="C" img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="50">
+  <img align= "left" title="C" alt="C" img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="57">
   <img align="left" title="C++" alt="C++" img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="50">
   <img align="left" title="Java" alt="Java" img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="50">
   <img align="left" title="Perl" alt="Perl" img src="https://cdn.freebiesupply.com/logos/large/2x/perl-logo-png-transparent.png" height="50">
