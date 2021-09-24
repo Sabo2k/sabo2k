@@ -35,4 +35,4 @@
 
 <h1 align="center">Inspiration</h1>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://raw.githubusercontent.com/Sabo2k/sabo2k/main/quotes.json)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quotesUrl=https://raw.githubusercontent.com/Sabo2k/sabo2k/main/quotes.json)
