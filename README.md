@@ -33,6 +33,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabo2k&layout=compact&theme=dark&&langs_count=5)](https://github.com/Sabo2k?tab=repositories)
 
-<h1 align="center">Inspiration</h1>
+<h1 align="center">My Inspiration</h1>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quotesUrl=https://raw.githubusercontent.com/Sabo2k/sabo2k/main/quotes.json)
+<!--how to put in quotes: https://github.com/shravan20/github-readme-quotes -->
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=vision-friendly-dark&quotesUrl=https://raw.githubusercontent.com/Sabo2k/sabo2k/main/quotes.json)
