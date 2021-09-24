@@ -33,7 +33,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabo2k&layout=compact&theme=dark&&langs_count=5)](https://github.com/Sabo2k?tab=repositories)
 
-<h1 align="center">My Inspiration</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Sabo2k/sabo2k/main/spinthink.gif" width="30px"> My Inspiration</h1>
 
 <!--how to put in quotes: https://github.com/shravan20/github-readme-quotes -->
 
