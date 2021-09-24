@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World!</h2>
 
 <a href="https://github.com/Sabo2k/sabo2k">
-  <img align="center" src="https://i.imgur.com/xxWsnff.gif" />
+  <img align="center" src="https://giffiles.alphacoders.com/360/36084.gif" />
 </a>
 
 <!--
