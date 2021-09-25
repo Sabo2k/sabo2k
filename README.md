@@ -8,7 +8,7 @@
 <!--
 **Sabo2k/sabo2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="left">🛠 My languages and tools</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/Sabo2k/sabo2k/main/d496oku-930e9bcd-b036-41ef-bc74-c5514a9328b9.gif" width="30px"> My languages and tools</h1>
 
 <a href="https://github.com/Sabo2k" />
   <img align= "left" title="C" alt="C" img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="57">
@@ -27,7 +27,7 @@
 <br />
 <br />
 
-<h1 align="left">📈 Statistics</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/Sabo2k/sabo2k/main/498052035220996131.gif" width="30px"> Statistics</h1>
 
 [![Sabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabo2k&show_icons=true&theme=dark)](https://github.com/Sabo2k?tab=repositories)
 
