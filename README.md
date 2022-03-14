@@ -35,8 +35,8 @@
 
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Sabo2k/sabo2k/main/spinthink.gif" width="30px"> Some of my favorite Inspirations</h1>
-<!--how to put in quotes: https://github.com/shravan20/github-readme-quotes-->
+<!--how to put in quotes: https://github-readme-quotes.herokuapp.com/ -->
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quotesUrl=https://raw.githubusercontent.com/Sabo2k/sabo2k/main/quotes.json)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=nord&quotesUrl=https://raw.githubusercontent.com/Sabo2k/sabo2k/main/quotes.json)
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Sabo2k/sabo2k/main/6200-pika-wink.gif" width="30px"> Stay cool!</h1>
