@@ -27,7 +27,7 @@
 <br />
 <br />
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/Sabo2k/sabo2k/main/498052035220996131.gif" width="30px"> Statistics</h1>
+<h1 align="left">Statistics</h1>
 
 [![Sabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabo2k&show_icons=true&theme=dark)](https://github.com/Sabo2k?tab=repositories)
 
