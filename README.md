@@ -1,10 +1,5 @@
 <a href="https://github.com/Sabo2k" />
 <h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World!</h1>
-
-<a href="https://github.com/Sabo2k/sabo2k">
-  <img align="center" src="https://giffiles.alphacoders.com/360/36084.gif" />
-</a>
-
 <!--
 **Sabo2k/sabo2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
