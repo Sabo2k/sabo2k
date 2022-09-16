@@ -10,20 +10,17 @@
 
 <h1 align="left">My languages and tools</h1>
 
-<a href="https://github.com/Sabo2k" />
-  <img align= "left" title="C" alt="C" img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="57">
-  <img align="left" title="C++" alt="C++" img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="50">
-  <img align="left" title="Java" alt="Java" img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="50">
-  <img align="left" title="Perl" alt="Perl" img src="https://cdn.freebiesupply.com/logos/large/2x/perl-logo-png-transparent.png" height="50">
-  <img align="left" title="PHP" alt="PHP" img src="https://www.php.net/images/logos/new-php-logo.svg" height="47">
-  <img align="left" title="git" alt="git" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" height="50">
-  <img align="left" title="Unix/Shell Programming" alt="Shell" img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="50">
-  <img align="left" title="PostgreSQL" alt="PostgreSQL" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="50">
-  <img align="left" title="Jenkins" alt="Jenkins" img src="https://coralogix.com/wp-content/uploads/2020/12/jenkins.png" height="50">
-<br/>
-<br/>
-<br/>
-<br/>
+<!--More icons under https://github.com/devicons/devicon/tree/master/icons-->
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" title="C++" alt="C++" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/perl/perl-original.svg" title="Perl" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Unix/Shell Programming" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" title="Git" alt="Git" width="50" height="50"/>
+
 
 <h1 align="left">Statistics</h1>
 
@@ -33,6 +30,6 @@
 
 
 <h1 align="left">Some of my favorite quotes</h1>
-<!--how to put in quotes: https://github-readme-quotes.herokuapp.com/ -->
 
+<!--how to put in quotes: https://github-readme-quotes.herokuapp.com/ -->
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=nord&quotesUrl=https://raw.githubusercontent.com/Sabo2k/sabo2k/main/quotes.json)
