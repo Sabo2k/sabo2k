@@ -28,9 +28,3 @@
 [![Sabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabo2k&show_icons=true&theme=dark)](https://github.com/Sabo2k?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabo2k&layout=compact&theme=dark&&langs_count=5)](https://github.com/Sabo2k?tab=repositories)
-
-
-<!--<h1 align="left">Some of my favorite quotes</h1>-->
-
-<!--how to put in quotes: https://github-readme-quotes.herokuapp.com/ -->
-<!--![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=nord&quotesUrl=https://raw.githubusercontent.com/Sabo2k/sabo2k/main/quotes.json)-->
