@@ -20,6 +20,10 @@
 
 <h1 align="left">Statistics</h1>
 
-[![Sabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabo2k&show_icons=true&theme=github_dark_dimmed)](https://github.com/Sabo2k?tab=repositories)
+<!--
+ ! See https://github.com/anuraghazra/github-readme-stats
+-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabo2k&layout=compact&theme=github_dark_dimmed&&langs_count=5)](https://github.com/Sabo2k?tab=repositories)
+[![Sabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabo2k&show_icons=true&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/Sabo2k?tab=repositories#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabo2k&layout=donut&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/Sabo2k?tab=repositories#gh-dark-mode-only)
