@@ -26,5 +26,6 @@
 -->
 
 [![Sabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabo2k&show_icons=true&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/Sabo2k?tab=repositories#gh-dark-mode-only)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabo2k&layout=donut&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/Sabo2k?tab=repositories#gh-dark-mode-only)
+-->
