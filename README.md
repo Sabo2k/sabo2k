@@ -58,8 +58,8 @@
 ### Frameworks
 <img 
     src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
-    title="Java" 
-    alt="Java" 
+    title="React" 
+    alt="React" 
     width="50" 
     height="50"
 />
