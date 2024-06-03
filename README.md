@@ -6,8 +6,11 @@
 
 # Hello World!
 
-### Languages, I'm familiar with:
+<!--
+list of icons under: https://github.com/devicons/devicon/tree/master/icons
+-->
 
+### Languages, I'm familiar with:
 <img 
     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" 
     title="C" 
@@ -63,10 +66,17 @@
     width="50" 
     height="50"
 />
+<img
+    src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"
+    title="Pandas"
+    alt="Pandas"
+    width="50"
+    height="50"
+ />
 
-### Other
+### Other Stuff I know
 <img 
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" 
+    src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" 
     title="Unix/Shell Programming" 
     width="50" 
     height="50"
