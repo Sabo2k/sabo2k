@@ -6,7 +6,7 @@
 
 # Hello World!
 
-### Languages
+### Languages, I'm familiar with:
 
 <img 
     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" 
@@ -55,7 +55,7 @@
     height="50"
 />
 
-### Frameworks
+### Frameworks, I'm familiar with:
 <img 
     src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
     title="React" 
