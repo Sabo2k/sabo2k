@@ -76,6 +76,13 @@ list of icons under: https://github.com/devicons/devicon/tree/master/icons
 
 ### Other Stuff I know
 <img 
+    src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
+    title="Git" 
+    alt="Git" 
+    width="50" 
+    height="50"
+/>
+<img 
     src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" 
     title="Unix/Shell Programming" 
     width="50" 
@@ -85,6 +92,13 @@ list of icons under: https://github.com/devicons/devicon/tree/master/icons
     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" 
     title="Postgresql" 
     alt="Postgresql" 
+    width="50" 
+    height="50"
+/>
+<img 
+    src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" 
+    title="Jupyter Notebook" 
+    alt="Jupyter Notebook" 
     width="50" 
     height="50"
 />
