@@ -102,6 +102,14 @@ list of icons under: https://github.com/devicons/devicon/tree/master/icons
     width="50" 
     height="50"
 />
+<img 
+    src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" 
+    title="Docker" 
+    alt="Docker" 
+    width="50" 
+    height="50"
+/>
+
 
 ### GitHub Statistics
 
