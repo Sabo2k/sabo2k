@@ -58,7 +58,7 @@ list of icons under: https://github.com/devicons/devicon/tree/master/icons
     height="50"
 />
 
-### Frameworks, I'm familiar with:
+### Frameworks/Libraries, I'm familiar with:
 <img 
     src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
     title="React" 
